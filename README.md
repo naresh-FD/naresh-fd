@@ -2,9 +2,9 @@
 
 # 👋 Naresh Kumar R
 
-**Full-Stack Developer | UI/UX Specialist | Tech Lead**
+**Full-Stack Developer | UI/UX Specialist | Associate Architect**
 
-*Crafting elegant solutions with React, Node.js & Python | 13+ years in IT*
+*Designing enterprise architectures with React, Node.js & AI | 13+ years in IT*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naresh-kumar-r-a590181b/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nareshdvm@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
 
@@ -20,6 +20,8 @@ With a strong foundation in **JavaScript and the DOM**, I contribute to architec
 
 Collaborating closely with cross-functional teams—including developers, QA, product owners, and stakeholders—I help drive technical decisions, improve UI/UX consistency, and maintain high code-quality standards. My commitment to innovation and best practices ensures delivery of intuitive, scalable solutions that enhance customer experience and meet enterprise-grade expectations.
 
+**Beyond my day-to-day work**, I'm actively exploring **AI/ML technologies** and **test automation** innovations including TestGen and other emerging tools to enhance code quality, developer productivity, and intelligent test coverage strategies.
+
 **Core Expertise:**
 - 🏗️ Micro Frontend Architecture & Scalable Design Patterns
 - ⚛️ React.js & Advanced State Management (Context API, Redux)
@@ -28,6 +30,12 @@ Collaborating closely with cross-functional teams—including developers, QA, pr
 - 👥 Technical Leadership & Developer Mentorship
 - 🔄 CI/CD Pipelines & Continuous Integration
 - 💼 Cross-Functional Collaboration & Stakeholder Management
+
+**R&D Focus:**
+- 🤖 AI/Machine Learning Integrations
+- 🧪 TestGen & Intelligent Test Automation
+- 📊 Smart Test Coverage & Quality Metrics
+- 💡 Emerging Tech Evaluation & Innovation Strategy
 
 ---
 
@@ -192,12 +200,19 @@ Collaborating closely with cross-functional teams—including developers, QA, pr
 
 ## 📈 Current Focus & Initiatives
 
+**Production Focus:**
 - 🏗️ **Micro Frontend Architecture** - Designing modular, scalable frontend solutions for enterprise banking applications
 - ⚛️ **Advanced React Patterns** - Implementing Context API, custom hooks, and component composition strategies for enterprise scale
 - 🔗 **Backend Integration** - Collaborating on API design and microservices communication patterns with Node.js/Java teams
 - 🚀 **Performance Engineering** - Optimizing bundle sizes, lazy loading, caching strategies, and state management
 - 👥 **Technical Mentorship** - Guiding developers on React best practices, architecture decisions, and code quality standards
 - 🔄 **Enterprise DevOps** - Enhancing CI/CD pipelines and deployment strategies for modular, scalable systems
+
+**Research & Development:**
+- 🤖 **AI/ML Integration** - Exploring LLM-based solutions and intelligent automation for enterprise applications
+- 🧪 **TestGen & Test Automation** - Researching AI-powered test generation tools to enhance code coverage and quality
+- 📊 **Intelligent Test Coverage** - Investigating smart testing strategies and automation frameworks
+- 💡 **Innovation Initiatives** - Evaluating emerging technologies to improve developer productivity and code quality
 
 ---
 
