@@ -33,7 +33,7 @@ I actively build and ship internal tools that bring AI safely into a compliance-
 
 | Project | What it does |
 |---|---|
-| **Argus** | LangGraph-orchestrated local SAST scanner with ~30 CWE-mapped rules across JS, TS, Java & Python — runs entirely on-prem |
+| **Argus** *(in active development)* | LangGraph-orchestrated local SAST scanner mapping ~30 rules to CWE categories across JS, TS, Java & Python — runs entirely on-prem with zero external calls, catching vulnerabilities directly in the repo before code review |
 | **TestGen** | React Testing Library test generator using AST parsing (ts-morph) with a pluggable LLM backend (local + API) |
 | **Copilot Governance** | Canonical `copilot-instructions.md` propagated across 100+ repos via automated sync workflows, hybrid org/repo instruction model |
 | **Reposcribe** | Multi-language documentation generation platform, three-layer plugin architecture |
@@ -115,7 +115,7 @@ I actively build and ship internal tools that bring AI safely into a compliance-
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naresh-kumar-r-a590181b/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nareshdvm@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/naresh-fd)
+ 
 
 </div>
 
