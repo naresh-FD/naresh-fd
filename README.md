@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=230&section=header&text=Naresh%20Kumar%20R&fontSize=48&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Associate%20Architect%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%2013%2B%20Years%20in%20IT&descAlignY=55&descSize=18" width="100%" alt="Header banner"/>
+# Naresh Kumar R
 
-<a href="https://www.linkedin.com/in/naresh-kumar-r-a590181b/"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1000&color=2DD4BF&center=true&vCenter=true&width=650&lines=Designing+Enterprise+Architectures+with+React+%26+Node.js;Micro+Frontend+Architecture+Specialist;AI%2FML+%26+Intelligent+Test+Automation;13%2B+Years+Building+Scalable+Web+Apps" alt="Typing SVG"/></a>
+**Full-Stack Developer | UI/UX Specialist | Associate Architect**
+
+*Designing enterprise architectures with React, Node.js & AI | 13+ years in IT*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naresh-kumar-r-a590181b/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nareshdvm@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naresh-fd)
 
@@ -159,7 +161,7 @@ Beyond day-to-day delivery, I'm actively exploring **AI/ML** and **test automati
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer" width="100%" alt="Footer banner"/>
+---
 
 <div align="center">
 
