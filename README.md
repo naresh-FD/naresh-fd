@@ -8,10 +8,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naresh-kumar-r-a590181b/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nareshdvm@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naresh-fd)
 
-![Profile Views](https://komarev.com/ghpvc/?username=naresh-fd&style=flat-square&color=2c5364&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/naresh-fd?style=flat-square&color=2c5364&label=Followers)
-![Stars](https://img.shields.io/github/stars/naresh-fd?style=flat-square&color=2c5364&label=Stars)
-
 </div>
 
 ## 🎯 About Me
