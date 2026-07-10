@@ -1,84 +1,78 @@
 <div align="center">
 
-# 👋 Naresh Kumar R
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=230&section=header&text=Naresh%20Kumar%20R&fontSize=48&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Associate%20Architect%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%2013%2B%20Years%20in%20IT&descAlignY=55&descSize=18" width="100%" alt="Header banner"/>
 
-**Full-Stack Developer | UI/UX Specialist | Associate Architect**
+<a href="https://www.linkedin.com/in/naresh-kumar-r-a590181b/"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1000&color=2DD4BF&center=true&vCenter=true&width=650&lines=Designing+Enterprise+Architectures+with+React+%26+Node.js;Micro+Frontend+Architecture+Specialist;AI%2FML+%26+Intelligent+Test+Automation;13%2B+Years+Building+Scalable+Web+Apps" alt="Typing SVG"/></a>
 
-*Designing enterprise architectures with React, Node.js & AI | 13+ years in IT*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naresh-kumar-r-a590181b/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nareshdvm@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naresh-fd)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naresh-kumar-r-a590181b/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nareshdvm@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+![Profile Views](https://komarev.com/ghpvc/?username=naresh-fd&style=flat-square&color=2c5364&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/naresh-fd?style=flat-square&color=2c5364&label=Followers)
+![Stars](https://img.shields.io/github/stars/naresh-fd?style=flat-square&color=2c5364&label=Stars)
 
 </div>
 
----
-
 ## 🎯 About Me
 
-At **Virtusa**, I currently serve as an **Associate Architect** (2 years), where my focus is on designing and delivering scalable, secure, and high-performance enterprise applications for the **Huntington Bank project**. I work extensively with modern JavaScript-based architectures and front-end frameworks to build reliable, user-centric digital solutions aligned with banking and financial-services standards.
+At **Virtusa**, I serve as an **Associate Architect**, designing and delivering scalable, secure, high-performance enterprise applications for the **Huntington Bank** project. With a strong foundation in **JavaScript and the DOM**, I architect responsive, maintainable solutions that emphasize **performance, accessibility, and security**, while mentoring teams and driving technical decisions across cross-functional groups.
 
-With a strong foundation in **JavaScript and the DOM**, I contribute to architecting responsive, maintainable applications that emphasize **performance, accessibility, and security**. My role involves translating complex business and regulatory requirements into robust technical designs while ensuring seamless integration across systems.
+Beyond day-to-day delivery, I'm actively exploring **AI/ML** and **test automation** — including TestGen and other emerging tools — to raise code quality and developer productivity.
 
-Collaborating closely with cross-functional teams—including developers, QA, product owners, and stakeholders—I help drive technical decisions, improve UI/UX consistency, and maintain high code-quality standards. My commitment to innovation and best practices ensures delivery of intuitive, scalable solutions that enhance customer experience and meet enterprise-grade expectations.
+<table>
+<tr>
+<td valign="top" width="50%">
 
-**Beyond my day-to-day work**, I'm actively exploring **AI/ML technologies** and **test automation** innovations including TestGen and other emerging tools to enhance code quality, developer productivity, and intelligent test coverage strategies.
+**🏗️ Core Expertise**
+- Micro Frontend Architecture & Scalable Design Patterns
+- React.js & Advanced State Management (Context API, Redux)
+- End-to-End Enterprise Solution Design
+- Performance Optimization & Caching Strategies
+- Technical Leadership & Developer Mentorship
+- CI/CD Pipelines & Continuous Integration
 
-**Core Expertise:**
-- 🏗️ Micro Frontend Architecture & Scalable Design Patterns
-- ⚛️ React.js & Advanced State Management (Context API, Redux)
-- 🔗 End-to-End Enterprise Solution Design
-- 🚀 Performance Optimization & Caching Strategies
-- 👥 Technical Leadership & Developer Mentorship
-- 🔄 CI/CD Pipelines & Continuous Integration
-- 💼 Cross-Functional Collaboration & Stakeholder Management
+</td>
+<td valign="top" width="50%">
 
-**R&D Focus:**
-- 🤖 AI/Machine Learning Integrations
-- 🧪 TestGen & Intelligent Test Automation
-- 📊 Smart Test Coverage & Quality Metrics
-- 💡 Emerging Tech Evaluation & Innovation Strategy
+**🤖 R&D Focus**
+- AI/Machine Learning Integrations
+- TestGen & Intelligent Test Automation
+- Smart Test Coverage & Quality Metrics
+- Emerging Tech Evaluation & Innovation Strategy
+- Cross-Functional Collaboration & Stakeholder Management
 
----
+</td>
+</tr>
+</table>
 
-## 💼 Current Role & Experience
+## 💼 Current Role
 
-### Associate Architect @ Virtusa (2024 - Present)
+### Associate Architect @ Virtusa &nbsp;·&nbsp; 2024 – Present
 **Huntington Bank | Enterprise Banking Solutions**
 
-**Key Responsibilities & Achievements:**
-- 🏛️ **Micro Frontend Architecture**: Designed and implemented scalable Micro Frontend architecture using React.js, Context API, and modular design patterns to enable seamless integration across multiple banking modules
-- 🔗 **End-to-End Solution Design**: Collaborated with Java backend architects to define service interfaces, ensure consistency across microservices, and establish efficient API communication flows
-- ⚡ **Performance & Optimization**: Led initiatives to enhance frontend performance through advanced caching strategies and state management optimization, resulting in improved load times and reduced inter-module dependencies
-- 👨‍🏫 **Technical Leadership**: Mentored developers on React best practices, component reusability, Context-based global state management, and micro frontend isolation strategies
-- 🤝 **Cross-Functional Collaboration**: Worked closely with business stakeholders, UI/UX teams, and DevOps engineers to align architecture with product goals and ensure scalability and maintainability
-- 🔄 **CI/CD Excellence**: Contributed to CI/CD pipelines and code quality processes, enforcing linting, unit testing, and modular deployment strategies for each micro frontend module
+![Release Cycle](https://img.shields.io/badge/Release_Cycle-35%25_Faster-2ea44f?style=for-the-badge) ![Performance](https://img.shields.io/badge/Frontend_Perf-%2B40%25-2ea44f?style=for-the-badge) ![Experience](https://img.shields.io/badge/Experience-13%2B_Years-2c5364?style=for-the-badge)
 
-**Key Achievements:**
-- ✅ Successfully delivered multi-module micro frontend migration for the HNB Business Online platform
-- ✅ Reduced release cycle time by 35% through modular deployment strategy
-- ✅ Improved frontend performance by ~40% with optimized bundle splitting and lazy loading
-- ✅ Established React & JavaScript architectural standards for enterprise-scale applications
+| Area | Highlights |
+|---|---|
+| 🏛️ **Architecture** | Designed scalable Micro Frontend architecture with React.js, Context API & modular design patterns for seamless cross-module integration |
+| 🔗 **Solution Design** | Partnered with Java backend architects on service interfaces, microservice consistency & API communication flows |
+| ⚡ **Performance** | Led caching-strategy & state-management optimization initiatives, cutting load times and inter-module dependencies |
+| 👨‍🏫 **Leadership** | Mentored developers on React best practices, component reusability & micro frontend isolation strategies |
+| 🤝 **Collaboration** | Aligned architecture with business stakeholders, UI/UX and DevOps teams on scalability & maintainability goals |
+| 🔄 **CI/CD** | Enforced linting, unit testing & modular deployment strategies for every micro frontend module |
 
----
+**Key wins:** delivered the multi-module micro frontend migration for HNB Business Online, and established React/JavaScript architectural standards now used enterprise-wide.
 
 ## 📋 Professional Background
 
 | Role | Organization | Duration | Focus |
 |------|--------------|----------|-------|
-| **Associate Architect** | Virtusa | 2024 - Present | Enterprise Banking Solutions, Micro Frontend Architecture, React.js & Node.js |
+| **Associate Architect** | Virtusa | 2024 – Present | Enterprise Banking Solutions, Micro Frontend Architecture, React.js & Node.js |
 | **Technical Lead** | Softura, Chennai | Previous | Cross-functional team leadership, React.js & Node.js product development |
 | **Full-Stack Developer** | Multiple Organizations | Previous | Scalable web applications, user-centric design approach |
 
----
-
-## 🛠️ Technical Expertise
-
-**Primary Focus:** React.js, JavaScript, Node.js, Micro Frontend Architecture, State Management, Enterprise Banking Solutions
-
----
-
 ## 🛠️ Technical Stack
 
-### Frontend Development
+**Frontend**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -92,19 +86,17 @@ Collaborating closely with cross-functional teams—including developers, QA, pr
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 
-### Backend Development
+**Backend & Databases**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-### Design & Tools
+**Design, Tools & Cloud**
 ![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
@@ -112,55 +104,48 @@ Collaborating closely with cross-functional teams—including developers, QA, pr
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-### Data Science & ML
+**Data Science & ML**
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
----
-
-<!-- ## 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
-**Key Metrics**
+<img src="https://github-readme-stats.vercel.app/api?username=naresh-fd&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&bg_color=0d1117&text_color=ffffff&border_color=2c5364&hide_border=false" width="49%" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naresh-fd&layout=compact&theme=tokyonight&hide=html,css&bg_color=0d1117&text_color=ffffff&border_color=2c5364&hide_border=false" width="49%" alt="Top languages"/>
 
-[![GitHub Followers](https://img.shields.io/github/followers/naresh-fd?style=social)](https://github.com/naresh-fd)
-[![GitHub Stars](https://img.shields.io/github/stars/naresh-fd?style=social)](https://github.com/naresh-fd)
-
-### Activity & Contributions
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naresh-fd&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&bg_color=0d1117&text_color=ffffff&border_color=30363d)
-
-### Language Proficiency
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naresh-fd&layout=vertical&theme=tokyonight&hide=html,css&size_weight=0.5&count_weight=0.5)
-
-### Additional Metrics
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=naresh-fd&theme=tokyonight)](https://github.com/naresh-fd)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=naresh-fd&theme=tokyonight&background=0D1117&border=2c5364" width="70%" alt="GitHub streak"/>
 
 </div>
 
---- -->
-
 ## 📈 Current Focus & Initiatives
 
-**Production Focus:**
-- 🏗️ **Micro Frontend Architecture** - Designing modular, scalable frontend solutions for enterprise banking applications
-- ⚛️ **Advanced React Patterns** - Implementing Context API, custom hooks, and component composition strategies for enterprise scale
-- 🔗 **Backend Integration** - Collaborating on API design and microservices communication patterns with Node.js/Java teams
-- 🚀 **Performance Engineering** - Optimizing bundle sizes, lazy loading, caching strategies, and state management
-- 👥 **Technical Mentorship** - Guiding developers on React best practices, architecture decisions, and code quality standards
-- 🔄 **Enterprise DevOps** - Enhancing CI/CD pipelines and deployment strategies for modular, scalable systems
+<table>
+<tr>
+<td valign="top" width="50%">
 
-**Research & Development:**
-- 🤖 **AI/ML Integration** - Exploring LLM-based solutions and intelligent automation for enterprise applications
-- 🧪 **TestGen & Test Automation** - Researching AI-powered test generation tools to enhance code coverage and quality
-- 📊 **Intelligent Test Coverage** - Investigating smart testing strategies and automation frameworks
-- 💡 **Innovation Initiatives** - Evaluating emerging technologies to improve developer productivity and code quality
+**🏗️ Production Focus**
+- Micro Frontend Architecture for enterprise banking applications
+- Advanced React Patterns — Context API, custom hooks, composition
+- Backend Integration with Node.js/Java microservice teams
+- Performance Engineering — bundle size, lazy loading, caching
+- Technical Mentorship on architecture & code quality standards
+- Enterprise DevOps — CI/CD pipelines for modular systems
 
----
+</td>
+<td valign="top" width="50%">
+
+**🔬 Research & Development**
+- AI/ML Integration — LLM-based solutions & intelligent automation
+- TestGen & Test Automation — AI-powered test generation
+- Intelligent Test Coverage — smart testing strategies
+- Innovation Initiatives — evaluating emerging developer tooling
+
+</td>
+</tr>
+</table>
 
 ## 📞 Get in Touch
 
@@ -174,7 +159,7 @@ Collaborating closely with cross-functional teams—including developers, QA, pr
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer" width="100%" alt="Footer banner"/>
 
 <div align="center">
 
