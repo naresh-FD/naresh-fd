@@ -33,7 +33,7 @@ I actively build and ship internal tools that bring AI safely into a compliance-
 
 | Project | What it does |
 |---|---|
-| **Argus** *(in active development)* | LangGraph-orchestrated local SAST scanner mapping ~30 rules to CWE categories across JS, TS, Java & Python — runs entirely on-prem with zero external calls, catching vulnerabilities directly in the repo before code review |
+| **Argus** *(in active development)* | LangGraph-orchestrated local SAST scanner mapping rules to CWE categories across JS, TS, Java & Python — runs entirely on-prem with zero external calls, catching vulnerabilities directly in the repo before code review |
 | **TestGen** | React Testing Library test generator using AST parsing (ts-morph) with a pluggable LLM backend (local + API) |
 | **Copilot Governance** | Canonical `copilot-instructions.md` propagated across 100+ repos via automated sync workflows, hybrid org/repo instruction model |
 | **Reposcribe** | Multi-language documentation generation platform, three-layer plugin architecture |
