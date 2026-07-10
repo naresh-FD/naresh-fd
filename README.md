@@ -14,14 +14,14 @@
 
 I'm an **Associate Architect** at **Virtusa**, currently engaged with **HNB (Huntington Bank)** on the **Commercial BOL (Business Online)** platform — a React micro-frontend/microservices application alongside Angular modules, with CI/CD through Azure DevOps.
 
-My current focus sits at the intersection of secure banking architecture and AI-powered developer tooling — leading a WebSEAL-to-PING authentication migration, governing GitHub Copilot usage across 100+ repositories, and building internal AI tools that respect strict data-compliance boundaries (no code ever leaves the organization's perimeter).
+My current focus sits at the intersection of secure banking architecture and AI-powered developer tooling — leading a legacy-to-modern authentication migration, governing GitHub Copilot usage across 100+ repositories, and building internal AI tools that respect strict data-compliance boundaries (no code ever leaves the organization's perimeter).
 
 I care deeply about developer productivity without compromising security — building tools that make engineering teams faster while staying fully within regulated, on-prem/local-inference constraints.
 
 ### 🏗️ Core Expertise
 
 - **Enterprise Architecture** — Micro Frontend design with React & Angular, Java microservices, service interface consistency
-- **Authentication & Identity** — Legacy-to-modern auth migrations (WebSEAL → PING)
+- **Authentication & Identity** — Legacy-to-modern authentication & identity migrations
 - **Developer Governance** — Org-wide standards, canonical instruction propagation, GitHub Actions-driven sync workflows
 - **CI/CD** — Azure DevOps pipelines, modular deployment strategies
 - **AI/ML Integration** — LangGraph-based agentic tooling, LLM-powered developer workflows, local-inference-first design (Ollama, fine-tuned models)
@@ -49,7 +49,7 @@ I actively build and ship internal tools that bring AI safely into a compliance-
 | Area | Highlights |
 |---|---|
 | 🏛️ **Architecture** | Own React micro-frontend + Angular + Java microservices architecture end-to-end |
-| 🔐 **Security Migration** | Leading WebSEAL-to-PING authentication migration, including session-token (`x-auth-receipt`, `x-context-id`) re-architecture |
+| 🔐 **Security Migration** | Leading a legacy-to-modern authentication migration, including session-token re-architecture |
 | 🤖 **AI Governance** | Driving GitHub Copilot governance and adoption strategy across 100+ repositories |
 | 🛠️ **Tooling** | Building local-inference AI tools (SAST scanning, test generation) that meet strict data-compliance requirements |
 | 🔄 **CI/CD** | Azure DevOps pipelines across the enterprise stack |
