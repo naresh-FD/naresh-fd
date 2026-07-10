@@ -86,17 +86,6 @@ Beyond day-to-day delivery, I'm actively exploring **AI/ML** and **test automati
 **Data Science & ML**
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=naresh-fd&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&bg_color=0d1117&text_color=ffffff&border_color=2c5364&hide_border=false" width="49%" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naresh-fd&layout=compact&theme=tokyonight&hide=html,css&bg_color=0d1117&text_color=ffffff&border_color=2c5364&hide_border=false" width="49%" alt="Top languages"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=naresh-fd&theme=tokyonight&background=0D1117&border=2c5364" width="70%" alt="GitHub streak"/>
-
-</div>
-
 ## 📈 Current Focus & Initiatives
 
 <table>
