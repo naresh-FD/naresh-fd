@@ -14,24 +14,57 @@
 
 ## 🎯 About Me
 
-Highly motivated full-stack developer with **13+ years** of IT expertise, specializing in **UI/UX design** and modern web technologies. I lead cross-functional teams to deliver user-centric, scalable solutions that seamlessly blend innovation with business objectives. Passionate about clean code, performance optimization, and creating delightful user experiences.
+At **Virtusa**, I currently serve as an **Associate Architect** (2 years), where my focus is on designing and delivering scalable, secure, and high-performance enterprise applications for the **Huntington Bank project**. I work extensively with modern JavaScript-based architectures and front-end frameworks to build reliable, user-centric digital solutions aligned with banking and financial-services standards.
 
-**Key Strengths:**
-- 🎨 UI/UX Design & Front-end Development
-- 🚀 Full-Stack Web Application Architecture
-- 👥 Technical Leadership & Team Management
-- ⚡ Performance Optimization & Scalability
-- 🔄 Agile & DevOps Methodologies
+With a strong foundation in **JavaScript and the DOM**, I contribute to architecting responsive, maintainable applications that emphasize **performance, accessibility, and security**. My role involves translating complex business and regulatory requirements into robust technical designs while ensuring seamless integration across systems.
+
+Collaborating closely with cross-functional teams—including developers, QA, product owners, and stakeholders—I help drive technical decisions, improve UI/UX consistency, and maintain high code-quality standards. My commitment to innovation and best practices ensures delivery of intuitive, scalable solutions that enhance customer experience and meet enterprise-grade expectations.
+
+**Core Expertise:**
+- 🏗️ Micro Frontend Architecture & Scalable Design Patterns
+- ⚛️ React.js & Advanced State Management (Context API, Redux)
+- 🔗 End-to-End Enterprise Solution Design
+- 🚀 Performance Optimization & Caching Strategies
+- 👥 Technical Leadership & Developer Mentorship
+- 🔄 CI/CD Pipelines & Continuous Integration
+- 💼 Cross-Functional Collaboration & Stakeholder Management
 
 ---
 
-## 💼 Experience Highlights
+## 💼 Current Role & Experience
 
-| Role | Organization | Focus |
-|------|--------------|-------|
-| **Technical Lead** | Softura, Chennai | Led cross-functional teams in React.js & Node.js product development |
-| **Full-Stack Developer** | Multiple Organizations | Architected scalable applications with user-centric approach |
-| **UI/UX Specialist** | Digital Products | Designed and implemented high-impact user interfaces |
+### Associate Architect @ Virtusa (2024 - Present)
+**Huntington Bank | Enterprise Banking Solutions**
+
+**Key Responsibilities & Achievements:**
+- 🏛️ **Micro Frontend Architecture**: Designed and implemented scalable Micro Frontend architecture using React.js, Context API, and modular design patterns to enable seamless integration across multiple banking modules
+- 🔗 **End-to-End Solution Design**: Collaborated with Java backend architects to define service interfaces, ensure consistency across microservices, and establish efficient API communication flows
+- ⚡ **Performance & Optimization**: Led initiatives to enhance frontend performance through advanced caching strategies and state management optimization, resulting in improved load times and reduced inter-module dependencies
+- 👨‍🏫 **Technical Leadership**: Mentored developers on React best practices, component reusability, Context-based global state management, and micro frontend isolation strategies
+- 🤝 **Cross-Functional Collaboration**: Worked closely with business stakeholders, UI/UX teams, and DevOps engineers to align architecture with product goals and ensure scalability and maintainability
+- 🔄 **CI/CD Excellence**: Contributed to CI/CD pipelines and code quality processes, enforcing linting, unit testing, and modular deployment strategies for each micro frontend module
+
+**Key Achievements:**
+- ✅ Successfully delivered multi-module micro frontend migration for the HNB Business Online platform
+- ✅ Reduced release cycle time by 35% through modular deployment strategy
+- ✅ Improved frontend performance by ~40% with optimized bundle splitting and lazy loading
+- ✅ Established React & JavaScript architectural standards for enterprise-scale applications
+
+---
+
+## 📋 Professional Background
+
+| Role | Organization | Duration | Focus |
+|------|--------------|----------|-------|
+| **Associate Architect** | Virtusa | 2024 - Present | Enterprise Banking Solutions, Micro Frontend Architecture, React.js & Node.js |
+| **Technical Lead** | Softura, Chennai | Previous | Cross-functional team leadership, React.js & Node.js product development |
+| **Full-Stack Developer** | Multiple Organizations | Previous | Scalable web applications, user-centric design approach |
+
+---
+
+## 🛠️ Technical Expertise
+
+**Primary Focus:** React.js, JavaScript, Node.js, Micro Frontend Architecture, State Management, Enterprise Banking Solutions
 
 ---
 
@@ -157,12 +190,14 @@ Highly motivated full-stack developer with **13+ years** of IT expertise, specia
 
 ---
 
-## 📈 Recent Activity
+## 📈 Current Focus & Initiatives
 
-- 🔭 Exploring advanced React patterns and Next.js optimization
-- 🌱 Deepening expertise in AI/ML integrations with Python
-- 💬 Open to collaborations on innovative web projects
-- 🎯 Focusing on scalable architecture and performance optimization
+- 🏗️ **Micro Frontend Architecture** - Designing modular, scalable frontend solutions for enterprise banking applications
+- ⚛️ **Advanced React Patterns** - Implementing Context API, custom hooks, and component composition strategies for enterprise scale
+- 🔗 **Backend Integration** - Collaborating on API design and microservices communication patterns with Node.js/Java teams
+- 🚀 **Performance Engineering** - Optimizing bundle sizes, lazy loading, caching strategies, and state management
+- 👥 **Technical Mentorship** - Guiding developers on React best practices, architecture decisions, and code quality standards
+- 🔄 **Enterprise DevOps** - Enhancing CI/CD pipelines and deployment strategies for modular, scalable systems
 
 ---
 
