@@ -192,9 +192,26 @@ Collaborating closely with cross-functional teams—including developers, QA, pr
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naresh-fd&show_icons=true&theme=tokyonight&count_private=true)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naresh-fd&layout=compact&theme=tokyonight)
+**Key Metrics**
+
+[![GitHub Followers](https://img.shields.io/github/followers/naresh-fd?style=social)](https://github.com/naresh-fd)
+[![GitHub Stars](https://img.shields.io/github/stars/naresh-fd?style=social)](https://github.com/naresh-fd)
+
+### Activity & Contributions
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naresh-fd&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&bg_color=0d1117&text_color=ffffff&border_color=30363d)
+
+### Language Proficiency
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naresh-fd&layout=vertical&theme=tokyonight&hide=html,css&size_weight=0.5&count_weight=0.5)
+
+### Additional Metrics
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=naresh-fd&theme=tokyonight)](https://github.com/naresh-fd)
+
+</div>
 
 ---
 
