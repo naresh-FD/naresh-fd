@@ -10,7 +10,7 @@
 
 </div>
 
-## 🎯 About Me
+## 🧭 About Me
 
 I'm an **Associate Architect** at **Virtusa**, currently engaged with **HNB (Huntington Bank)** on the **Commercial BOL (Business Online)** platform — a React micro-frontend/microservices application alongside Angular modules, with CI/CD through Azure DevOps.
 
@@ -18,7 +18,7 @@ Focused on secure banking architecture and AI-powered developer tooling. I lead 
 
 I care deeply about developer productivity without compromising security — building tools that make engineering teams faster while staying fully within regulated, on-prem/local-inference constraints.
 
-### 🏗️ Core Expertise
+### 🧩 Core Expertise
 
 - **Enterprise Architecture** — Micro Frontend design with React & Angular, Java microservices, service interface consistency
 - **Authentication & Identity** — Legacy-to-modern authentication & identity migrations
@@ -27,7 +27,7 @@ I care deeply about developer productivity without compromising security — bui
 - **AI/ML Integration** — LangGraph-based agentic tooling, LLM-powered developer workflows, local-inference-first design (Ollama, fine-tuned models)
 - **Technical Leadership** — Mentoring, cross-functional stakeholder alignment, POD-based delivery tracking
 
-### 🤖 R&D Focus — AI-Powered Developer Tooling
+### 🧪 R&D Focus — AI-Powered Developer Tooling
 
 I actively build and ship internal tools that bring AI safely into a compliance-constrained banking environment:
 
@@ -40,7 +40,7 @@ I actively build and ship internal tools that bring AI safely into a compliance-
 
 > Guiding principle: every AI tool I build is designed loop-first and local-first — because in a regulated banking environment, code never leaves the perimeter.
 
-## 💼 Current Role
+## 💻 Current Role
 
 ### Associate Architect @ Virtusa &nbsp;·&nbsp; 2024 – Present
 
@@ -54,7 +54,7 @@ I actively build and ship internal tools that bring AI safely into a compliance-
 | 🛠️ **Tooling** | Building local-inference AI tools (SAST scanning, test generation) that meet strict data-compliance requirements |
 | 🔄 **CI/CD** | Azure DevOps pipelines across the enterprise stack |
 
-## 📋 Professional Background
+## 📄 Professional Background
 
 | Role | Organization | Duration | Focus |
 |------|--------------|----------|-------|
@@ -62,7 +62,7 @@ I actively build and ship internal tools that bring AI safely into a compliance-
 | **Technical Lead** | Softura, Chennai | Previous | Cross-functional team leadership, React.js & Node.js product development |
 | **Full-Stack Developer** | Multiple Organizations | Previous | Scalable web applications, user-centric design approach |
 
-## 🛠️ Technical Stack
+## ⚙️ Technical Stack
 
 ### Frontend
 
@@ -80,7 +80,7 @@ I actively build and ship internal tools that bring AI safely into a compliance-
 
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-## 📈 Current Focus & Initiatives
+## 🚀 Current Focus & Initiatives
 
 <table>
 <tr>
@@ -107,7 +107,7 @@ I actively build and ship internal tools that bring AI safely into a compliance-
 </tr>
 </table>
 
-## 📞 Get in Touch
+## ✉️ Get in Touch
 
 <div align="center">
 
