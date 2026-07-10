@@ -14,7 +14,7 @@
 
 I'm an **Associate Architect** at **Virtusa**, currently engaged with **HNB (Huntington Bank)** on the **Commercial BOL (Business Online)** platform — a React micro-frontend/microservices application alongside Angular modules, with CI/CD through Azure DevOps.
 
-My current focus sits at the intersection of secure banking architecture and AI-powered developer tooling — leading a legacy-to-modern authentication migration, governing GitHub Copilot usage across 100+ repositories, and building internal AI tools that respect strict data-compliance boundaries (no code ever leaves the organization's perimeter).
+My current focus sits at the intersection of secure banking architecture and AI-powered developer tooling — leading a legacy-to-modern authentication migration, and, out of personal interest, building internal AI tools (like Copilot governance tooling used across 100+ repositories and Reposcribe) that respect strict data-compliance boundaries (no code ever leaves the organization's perimeter).
 
 I care deeply about developer productivity without compromising security — building tools that make engineering teams faster while staying fully within regulated, on-prem/local-inference constraints.
 
@@ -36,7 +36,7 @@ I actively build and ship internal tools that bring AI safely into a compliance-
 | **Argus** | LangGraph-orchestrated local SAST scanner with ~30 CWE-mapped rules across JS, TS, Java & Python — runs entirely on-prem |
 | **TestGen** | React Testing Library test generator using AST parsing (ts-morph) with a pluggable LLM backend (local + API) |
 | **Copilot Governance** | Canonical `copilot-instructions.md` propagated across 100+ repos via automated sync workflows, hybrid org/repo instruction model |
-| **DocGen** | Multi-language documentation generation platform, three-layer plugin architecture |
+| **Reposcribe** | Multi-language documentation generation platform, three-layer plugin architecture |
 
 > Guiding principle: every AI tool I build is designed loop-first and local-first — because in a regulated banking environment, code never leaves the perimeter.
 
