@@ -12,53 +12,47 @@
 
 ## 🎯 About Me
 
-At **Virtusa**, I serve as an **Associate Architect**, designing and delivering scalable, secure, high-performance enterprise applications for the **Huntington Bank** project. With a strong foundation in **JavaScript and the DOM**, I architect responsive, maintainable solutions that emphasize **performance, accessibility, and security**, while mentoring teams and driving technical decisions across cross-functional groups.
+I'm an **Associate Architect** at **Virtusa**, currently engaged with **HNB (Huntington Bank)** on the **Commercial BOL (Business Online)** platform — a React micro-frontend/microservices application alongside Angular modules, with CI/CD through Azure DevOps.
 
-Beyond day-to-day delivery, I'm actively exploring **AI/ML** and **test automation** — including TestGen and other emerging tools — to raise code quality and developer productivity.
+My current focus sits at the intersection of secure banking architecture and AI-powered developer tooling — leading a WebSEAL-to-PING authentication migration, governing GitHub Copilot usage across 100+ repositories, and building internal AI tools that respect strict data-compliance boundaries (no code ever leaves the organization's perimeter).
 
-<table>
-<tr>
-<td valign="top" width="50%">
+I care deeply about developer productivity without compromising security — building tools that make engineering teams faster while staying fully within regulated, on-prem/local-inference constraints.
 
-**🏗️ Core Expertise**
-- Micro Frontend Architecture & Scalable Design Patterns
-- React.js & Advanced State Management (Context API, Redux)
-- End-to-End Enterprise Solution Design
-- Performance Optimization & Caching Strategies
-- Technical Leadership & Developer Mentorship
-- CI/CD Pipelines & Continuous Integration
+### 🏗️ Core Expertise
 
-</td>
-<td valign="top" width="50%">
+- **Enterprise Architecture** — Micro Frontend design with React & Angular, Java microservices, service interface consistency
+- **Authentication & Identity** — Legacy-to-modern auth migrations (WebSEAL → PING)
+- **Developer Governance** — Org-wide standards, canonical instruction propagation, GitHub Actions-driven sync workflows
+- **CI/CD** — Azure DevOps pipelines, modular deployment strategies
+- **AI/ML Integration** — LangGraph-based agentic tooling, LLM-powered developer workflows, local-inference-first design (Ollama, fine-tuned models)
+- **Technical Leadership** — Mentoring, cross-functional stakeholder alignment, POD-based delivery tracking
 
-**🤖 R&D Focus**
-- AI/Machine Learning Integrations
-- TestGen & Intelligent Test Automation
-- Smart Test Coverage & Quality Metrics
-- Emerging Tech Evaluation & Innovation Strategy
-- Cross-Functional Collaboration & Stakeholder Management
+### 🤖 R&D Focus — AI-Powered Developer Tooling
 
-</td>
-</tr>
-</table>
+I actively build and ship internal tools that bring AI safely into a compliance-constrained banking environment:
+
+| Project | What it does |
+|---|---|
+| **Argus** | LangGraph-orchestrated local SAST scanner with ~30 CWE-mapped rules across JS, TS, Java & Python — runs entirely on-prem |
+| **TestGen** | React Testing Library test generator using AST parsing (ts-morph) with a pluggable LLM backend (local + API) |
+| **Copilot Governance** | Canonical `copilot-instructions.md` propagated across 100+ repos via automated sync workflows, hybrid org/repo instruction model |
+| **DocGen** | Multi-language documentation generation platform, three-layer plugin architecture |
+
+> Guiding principle: every AI tool I build is designed loop-first and local-first — because in a regulated banking environment, code never leaves the perimeter.
 
 ## 💼 Current Role
 
 ### Associate Architect @ Virtusa &nbsp;·&nbsp; 2024 – Present
-**Client: Huntington Bank | Enterprise Banking Solutions**
 
-![Release Cycle](https://img.shields.io/badge/Release_Cycle-35%25_Faster-2ea44f?style=for-the-badge) ![Performance](https://img.shields.io/badge/Frontend_Perf-%2B40%25-2ea44f?style=for-the-badge) ![Experience](https://img.shields.io/badge/Experience-13%2B_Years-2c5364?style=for-the-badge)
+**Client: HNB (Huntington Bank) | Commercial BOL (Business Online)**
 
 | Area | Highlights |
 |---|---|
-| 🏛️ **Architecture** | Designed scalable Micro Frontend architecture with React.js, Context API & modular design patterns for seamless cross-module integration |
-| 🔗 **Solution Design** | Partnered with Java backend architects on service interfaces, microservice consistency & API communication flows |
-| ⚡ **Performance** | Led caching-strategy & state-management optimization initiatives, cutting load times and inter-module dependencies |
-| 👨‍🏫 **Leadership** | Mentored developers on React best practices, component reusability & micro frontend isolation strategies |
-| 🤝 **Collaboration** | Aligned architecture with business stakeholders, UI/UX and DevOps teams on scalability & maintainability goals |
-| 🔄 **CI/CD** | Enforced linting, unit testing & modular deployment strategies for every micro frontend module |
-
-**Key wins:** delivered the multi-module micro frontend migration for HNB Business Online, and established React/JavaScript architectural standards now used enterprise-wide.
+| 🏛️ **Architecture** | Own React micro-frontend + Angular + Java microservices architecture end-to-end |
+| 🔐 **Security Migration** | Leading WebSEAL-to-PING authentication migration, including session-token (`x-auth-receipt`, `x-context-id`) re-architecture |
+| 🤖 **AI Governance** | Driving GitHub Copilot governance and adoption strategy across 100+ repositories |
+| 🛠️ **Tooling** | Building local-inference AI tools (SAST scanning, test generation) that meet strict data-compliance requirements |
+| 🔄 **CI/CD** | Azure DevOps pipelines across the enterprise stack |
 
 ## 📋 Professional Background
 
