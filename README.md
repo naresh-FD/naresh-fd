@@ -45,7 +45,7 @@ Beyond day-to-day delivery, I'm actively exploring **AI/ML** and **test automati
 ## 💼 Current Role
 
 ### Associate Architect @ Virtusa &nbsp;·&nbsp; 2024 – Present
-**Huntington Bank | Enterprise Banking Solutions**
+**Client: Huntington Bank | Enterprise Banking Solutions**
 
 ![Release Cycle](https://img.shields.io/badge/Release_Cycle-35%25_Faster-2ea44f?style=for-the-badge) ![Performance](https://img.shields.io/badge/Frontend_Perf-%2B40%25-2ea44f?style=for-the-badge) ![Experience](https://img.shields.io/badge/Experience-13%2B_Years-2c5364?style=for-the-badge)
 
