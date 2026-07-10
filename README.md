@@ -14,7 +14,7 @@
 
 I'm an **Associate Architect** at **Virtusa**, currently engaged with **HNB (Huntington Bank)** on the **Commercial BOL (Business Online)** platform — a React micro-frontend/microservices application alongside Angular modules, with CI/CD through Azure DevOps.
 
-My current focus sits at the intersection of secure banking architecture and AI-powered developer tooling — leading a legacy-to-modern authentication migration, and, out of personal interest, building internal AI tools (like Copilot governance tooling used across 100+ repositories and Reposcribe) that respect strict data-compliance boundaries (no code ever leaves the organization's perimeter).
+Focused on secure banking architecture and AI-powered developer tooling. I architect React and Angular platforms while leading a legacy-to-modern authentication migration. I also build and ship internal AI tools: TestGen for intelligent test generation across React, Java, and Python; Reposcribe for automated code documentation; and organization-wide Copilot governance guidelines across 100+ repositories that standardize prompt engineering and enforce secure, compliant AI usage without exposing code externally.
 
 I care deeply about developer productivity without compromising security — building tools that make engineering teams faster while staying fully within regulated, on-prem/local-inference constraints.
 
