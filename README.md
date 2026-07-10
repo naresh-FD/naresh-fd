@@ -239,15 +239,9 @@ Collaborating closely with cross-functional teams—including developers, QA, pr
 
 **Let's connect and build something amazing together!**
 
-<a href="https://www.linkedin.com/in/naresh-kumar-r-a590181b/" target="_blank" rel="noopener noreferrer">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:nareshdvm@gmail.com" target="_blank" rel="noopener noreferrer">
-<img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://github.com/naresh-fd" target="_blank" rel="noopener noreferrer">
-<img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naresh-kumar-r-a590181b/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nareshdvm@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/naresh-fd)
 
 </div>
 
