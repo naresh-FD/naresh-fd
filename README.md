@@ -190,7 +190,7 @@ Collaborating closely with cross-functional teams—including developers, QA, pr
 
 ---
 
-## 📊 GitHub Statistics
+<!-- ## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -213,7 +213,7 @@ Collaborating closely with cross-functional teams—including developers, QA, pr
 
 </div>
 
----
+--- -->
 
 ## 📈 Current Focus & Initiatives
 
