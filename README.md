@@ -2,73 +2,77 @@
 
 # Naresh Kumar R
 
-**Associate Architect · Full-Stack Engineering · AI Developer Tooling**
+**Associate Architect · Full-Stack Engineering · Secure Developer Tooling**
 
-*13+ years building enterprise web platforms — currently focused on secure banking architecture and local-first AI developer tooling*
+*13+ years building enterprise web platforms, frontend architecture, and local-first AI tools for regulated environments.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naresh-kumar-r-a590181b/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nareshdvm@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naresh-fd)
+[![Portfolio](https://img.shields.io/badge/Portfolio-14A9CA?style=for-the-badge&logo=googlechrome&logoColor=white)](https://naresh-fd.github.io/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naresh-kumar-r-a590181b/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail2nareshfd@gmail.com)
 
 </div>
 
-## 🎯 About Me
+## About Me
 
-I'm an Associate Architect with 13+ years in software engineering, spanning full-stack development, technical leadership, and frontend architecture. I currently work on an enterprise commercial banking platform built with React micro-frontends and Angular modules, integrated with Java microservices and delivered through Azure DevOps CI/CD.
+I'm an Associate Architect with 13+ years in software engineering, spanning full-stack development, technical leadership, and frontend architecture. I work on enterprise commercial banking platforms built with React micro-frontends and Angular modules, integrated with Java microservices and delivered through Azure DevOps CI/CD.
 
-The thread running through my work: developer productivity should never come at the cost of security. Regulated environments make that tension real — which is why the AI tooling I build out of personal interest is local-first by design, keeping code and data inside the environment where they belong.
+The thread running through my work is simple: developer productivity should never come at the cost of security. The developer tools I build out of personal interest are local-first by design, keeping code and sensitive data inside the environments where they belong.
 
-## 💼 Current Areas of Work
+## Latest Work
 
-- **Frontend architecture** — designing and evolving React micro-frontends and Angular modules, integrated with Java microservices
-- **Authentication & identity modernization** — contributing to the migration from legacy access management to a modern identity platform, including session and token flow redesign
-- **Application integration** — aligning service contracts and API communication patterns across frontend and backend teams
-- **Code quality & security** — review standards, secure coding practices, and static analysis in the development workflow
-- **Developer productivity** — piloting AI-assisted development practices and internal tooling within strict compliance boundaries
-- **CI/CD** — building and maintaining Azure DevOps pipelines for modular deployments
+| Project | Focus | Documentation |
+|---|---|---|
+| **React Intelligent Test Generator** | AST-aware, local-first test generation with reviewable AI output | [View documentation](https://naresh-fd.github.io/react-intelligent-test-generator/) |
+| **Argus Security Validation** | Production validation evidence against OWASP Juice Shop scenarios | [View documentation](https://naresh-fd.github.io/argus-security-validation-docs/) |
+| **RepoScribe** | Layered Markdown, PDF, and web documentation for TypeScript and Java repositories | [View documentation](https://naresh-fd.github.io/RepoScribe/) |
+| **Conduit Architecture** | Platform architecture, threat modeling, and phased delivery planning | [View documentation](https://naresh-fd.github.io/conduit-docs/) |
+| **Mileage Tracker** | Local-first Android mileage, fuel, trip, and spend tracking | — |
+| **React TestGen Coverage** | Fine-tuned local model research for React test generation | — |
+| **ListSync** | Expo and Firebase mobile list management with offline storage | — |
+| **Banking Data Assessment** | Anonymized data and engineering assessment environment | — |
 
-## 🤖 AI Developer Tooling
+Only standalone public documentation is linked here; project source links are intentionally omitted.
 
-Personal-interest projects, built for regulated, compliance-heavy environments — designed so nothing leaves the local environment:
+## Current Areas of Work
 
-| Project | What it does |
-|---|---|
-| **Argus** *(in active development)* | Local-first code and PR scanning for security, quality, and compliance issues |
-| **TestGen** | AST-based test generation across React, Java, and Python |
-| **RepoScribe** | Automated multi-language repository documentation |
-| **Copilot Governance** | Reusable Copilot instructions, repository standards, and automated policy sync |
+- **Frontend architecture** — React micro-frontends and Angular modules integrated with Java microservices
+- **Authentication and identity** — session architecture, token flows, and identity modernization
+- **Application integration** — service contracts and communication patterns across frontend and backend teams
+- **Code quality and security** — review standards, secure coding practices, and static analysis
+- **Developer productivity** — practical AI-assisted workflows within strict compliance boundaries
+- **CI/CD** — reliable, modular delivery through Azure DevOps pipelines
 
-## 🛠️ Core Technologies
+## Core Technologies
 
 ### Frontend
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-### Backend & Databases
+### Backend and Databases
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-### DevOps & AI Tooling
+### DevOps, AI, Mobile, and Cloud
 
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-8957E5?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-8957E5?style=for-the-badge&logo=githubcopilot&logoColor=white) ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white) ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-## 📋 Professional Experience
+## Professional Experience
 
-| Role | Organization | Duration | Focus |
-|------|--------------|----------|-------|
-| **Associate Architect** | Global IT services firm | 2024 – Present | Frontend architecture, identity modernization & AI developer tooling for an enterprise commercial banking platform |
-| **Technical Lead** | Product engineering company, Chennai | Previous | Cross-functional team leadership, React & Node.js product delivery |
-| **Full-Stack Developer** | Multiple organizations | Earlier | Web application development across the stack |
+| Role | Organization | Focus |
+|---|---|---|
+| **Associate Architect** | Global IT services firm | Frontend architecture, identity modernization, and AI developer tooling for enterprise banking |
+| **Technical Lead** | Product engineering company, Chennai | Cross-functional leadership and React and Node.js product delivery |
+| **Full-Stack Developer** | Multiple organizations | Web application development across the stack |
 
-## 📈 Current Focus
+## Current Focus
 
-- Evolving **Argus** — broadening language coverage and tightening the PR-review workflow
-- Local inference for developer workflows — small and fine-tuned models via **Ollama**
-- Agentic code-analysis pipelines with **LangGraph**
-- Measuring the quality impact of AI-assisted development, not just the speed
+- Advancing **TestGen** with evidence-backed evaluation and reviewable, AST-aware output
+- Validating **Argus** against realistic OWASP security scenarios and production expectations
+- Turning repository structure into useful onboarding material through **RepoScribe**
+- Designing local-first tools where productivity, privacy, and engineering quality reinforce each other
 
 ---
 
 <div align="center">
 
-*If any of this overlaps with what you're working on, feel free to explore my repositories.*
+Explore the complete portfolio at **[naresh-fd.github.io](https://naresh-fd.github.io/)**.
 
 </div>
